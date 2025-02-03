@@ -6,15 +6,20 @@ Olá! 👋 Sou Hideki Yo
 🚀 Sobre Mim:
 
 🔹 Tenho grande domínio em JavaScript & Python
+
 🔹 Aprendendo C++
+
 🔹 Trabalho com Minecraft Bedrock Edition (MCPE), desenvolvendo scripts e plugins
+
 🔹 Atualmente criando um servidor de MCPE
 
 
 🛠️ Tecnologias & Ferramenta:
 
 📌 Linguagens: JavaScript, C++, PHP, Java & Python
+
 📌 Frameworks & Ferramentas: Node.js, Git, JSON UI, Termux
+
 📌 Projetos Atuais: Desenvolvimento de um software
 
 
