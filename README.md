@@ -37,15 +37,31 @@ Gosto de trabalhar perto da performance: concorrência, profiling e persistênci
 
 ### 📌 Projects · Projetos
 
-| Project | Stack | Status |
-|---|---|---|
-| **EndstarMC** | Java 21 · Gradle · Multithreading | 🔒 Private |
+<table>
+<tr>
+<td width="100%">
+
+#### 🚀 EndstarMC &nbsp;<img src="https://img.shields.io/badge/private-30363d?style=flat-square&logo=github&logoColor=white" align="right"/>
+
+<sub>High-performance Java server software · Software de servidor Java de alta performance</sub>
+
+<p>
+<img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multithreading-6E40C9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Performance-2EA043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tests-1F6FEB?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📊 Stats
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=INISIANTENOOB&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark"/>
+<img height="160" src="https://streak-stats.demolab.com?user=INISIANTENOOB&theme=github-dark-blue&hide_border=true"/>
 
 ---
 
