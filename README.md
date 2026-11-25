@@ -7,18 +7,26 @@
 ### 🇺🇸 About me
 
 Hey, I'm Gustavo 👋
-I've been coding in Java for about 2 years, mostly server-side stuff.
-I like figuring out why something is slow and fixing it. I also work with PostgreSQL.
+I've been coding in Java for about 2 years, mostly backend with Spring Boot and server-side stuff.
+I like figuring out why something is slow and fixing it.
 
-🌎 Portuguese (native) · English (B2+)
+What I usually work on:
+- REST APIs with Spring Boot
+- PostgreSQL databases
+- Making slow code run faster, including splitting work across threads
+- Writing tests for what I build
 
 ### 🇧🇷 Sobre mim
 
 Opa, sou o Gustavo 👋
-Programo em Java há uns 2 anos, principalmente coisas que rodam em servidor.
-Curto descobrir por que algo está lento e resolver. Também trabalho com PostgreSQL.
+Programo em Java há uns 2 anos, principalmente backend com Spring Boot e coisas que rodam em servidor.
+Curto descobrir por que algo está lento e resolver.
 
-🌎 Português (nativo) · Inglês (B2+)
+No que eu mais trabalho:
+- APIs REST com Spring Boot
+- Bancos de dados PostgreSQL
+- Deixar código lento mais rápido, inclusive dividindo o trabalho entre threads
+- Escrever testes para o que eu faço
 
 ---
 
@@ -26,6 +34,7 @@ Curto descobrir por que algo está lento e resolver. Também trabalho com Postgr
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
