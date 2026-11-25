@@ -14,7 +14,7 @@ What I usually work on:
 - REST APIs with Spring Boot
 - PostgreSQL databases
 - Minecraft plugins with Paper and Folia
-- Multithreaded Java with java.util.concurrent
+- Designing and building systems end to end, from architecture and database to the API
 
 ### 🇧🇷 Sobre mim
 
@@ -26,7 +26,7 @@ No que eu mais trabalho:
 - APIs REST com Spring Boot
 - Bancos de dados PostgreSQL
 - Plugins de Minecraft com Paper e Folia
-- Java multithread com java.util.concurrent
+- Projetar e construir sistemas do zero, da arquitetura e do banco de dados até a API
 
 ---
 
