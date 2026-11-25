@@ -13,8 +13,8 @@ I like figuring out why something is slow and fixing it.
 What I usually work on:
 - REST APIs with Spring Boot
 - PostgreSQL databases
-- Making slow code run faster, including splitting work across threads
-- Writing tests for what I build
+- Minecraft plugins with Paper and Folia
+- Optimizing Java servers to handle more players without lag
 
 ### 🇧🇷 Sobre mim
 
@@ -25,8 +25,8 @@ Curto descobrir por que algo está lento e resolver.
 No que eu mais trabalho:
 - APIs REST com Spring Boot
 - Bancos de dados PostgreSQL
-- Deixar código lento mais rápido, inclusive dividindo o trabalho entre threads
-- Escrever testes para o que eu faço
+- Plugins de Minecraft com Paper e Folia
+- Otimização de servidores Java para aguentar mais jogadores sem lag
 
 ---
 
