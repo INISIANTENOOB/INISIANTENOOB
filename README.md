@@ -4,15 +4,15 @@
 
 </div>
 
-### 🇺🇸 About me
+### 🇺🇸 Hey, I'm Gustavo 👋
 
-Java developer with **2 years of experience** building software that has to stay fast and reliable under load.
-I enjoy working close to performance: concurrency, profiling, and data persistence with relational databases.
+I've been coding in Java for about 2 years, mostly server-side stuff.
+I like figuring out why something is slow and fixing it. I also work with PostgreSQL.
 
-### 🇧🇷 Sobre mim
+### 🇧🇷 Opa, sou o Gustavo 👋
 
-Desenvolvedor Java com **2 anos de experiência**, construindo software que precisa continuar rápido e confiável sob carga.
-Gosto de trabalhar perto da performance: concorrência, profiling e persistência de dados com bancos relacionais.
+Programo em Java há uns 2 anos, principalmente coisas que rodam em servidor.
+Curto descobrir por que algo está lento e resolver. Também trabalho com PostgreSQL.
 
 ---
 
