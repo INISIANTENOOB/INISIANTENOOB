@@ -6,9 +6,10 @@
 
 ### 🇺🇸 About me
 
-Hey, I'm Gustavo 👋
-I've been coding in Java for about 2 years, mostly backend with Spring Boot and server-side stuff.
-I like figuring out why something is slow and fixing it.
+Hi, I'm Gustavo 👋
+
+I'm a Java developer with 2 years of experience, focused on backend development with Spring Boot and server-side applications.
+I'm currently studying **Computer Engineering** and hold a technical degree in **Systems Analysis and Development**.
 
 What I usually work on:
 - REST APIs with Spring Boot
@@ -18,9 +19,10 @@ What I usually work on:
 
 ### 🇧🇷 Sobre mim
 
-Opa, sou o Gustavo 👋
-Programo em Java há uns 2 anos, principalmente backend com Spring Boot e coisas que rodam em servidor.
-Curto descobrir por que algo está lento e resolver.
+Olá, sou o Gustavo 👋
+
+Sou desenvolvedor Java há 2 anos, com foco em backend usando Spring Boot e aplicações que rodam em servidor.
+Estou cursando **Engenharia da Computação** e sou técnico em **Análise e Desenvolvimento de Sistemas**.
 
 No que eu mais trabalho:
 - APIs REST com Spring Boot
