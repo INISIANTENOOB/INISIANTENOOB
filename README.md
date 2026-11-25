@@ -4,15 +4,21 @@
 
 </div>
 
-### 🇺🇸 Hey, I'm Gustavo 👋
+### 🇺🇸 About me
 
+Hey, I'm Gustavo 👋
 I've been coding in Java for about 2 years, mostly server-side stuff.
 I like figuring out why something is slow and fixing it. I also work with PostgreSQL.
 
-### 🇧🇷 Opa, sou o Gustavo 👋
+🌎 Portuguese (native) · English (B2+)
 
+### 🇧🇷 Sobre mim
+
+Opa, sou o Gustavo 👋
 Programo em Java há uns 2 anos, principalmente coisas que rodam em servidor.
 Curto descobrir por que algo está lento e resolver. Também trabalho com PostgreSQL.
+
+🌎 Português (nativo) · Inglês (B2+)
 
 ---
 
@@ -25,13 +31,6 @@ Curto descobrir por que algo está lento e resolver. Também trabalho com Postgr
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/PaperMC-3F7FBF?style=flat-square"/>
 </p>
-
-**Focus areas · Áreas de foco**
-
-- Concurrency & multithreading · Concorrência e multithreading
-- Performance profiling & optimization · Profiling e otimização de performance
-- Relational data modeling with PostgreSQL · Modelagem de dados relacional com PostgreSQL
-- Automated testing & reproducible builds · Testes automatizados e builds reproduzíveis
 
 ---
 
